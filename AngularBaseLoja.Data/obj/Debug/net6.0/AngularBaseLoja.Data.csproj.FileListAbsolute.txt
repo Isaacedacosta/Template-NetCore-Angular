@@ -1,0 +1,17 @@
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\bin\Debug\net6.0\AngularBaseLoja.Data.deps.json
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\bin\Debug\net6.0\AngularBaseLoja.Data.runtimeconfig.json
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\bin\Debug\net6.0\AngularBaseLoja.Data.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\bin\Debug\net6.0\ref\AngularBaseLoja.Data.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\bin\Debug\net6.0\AngularBaseLoja.Data.pdb
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\bin\Debug\net6.0\AngularBaseLoja.Domain.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\bin\Debug\net6.0\AngularBaseLoja.Domain.pdb
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.csproj.AssemblyReference.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.csproj.CopyComplete
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\ref\AngularBaseLoja.Data.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.pdb
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Data\obj\Debug\net6.0\AngularBaseLoja.Data.genruntimeconfig.cache

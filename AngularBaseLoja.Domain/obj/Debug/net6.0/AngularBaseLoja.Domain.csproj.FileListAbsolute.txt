@@ -1,0 +1,12 @@
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\bin\Debug\net6.0\AngularBaseLoja.Domain.deps.json
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\bin\Debug\net6.0\AngularBaseLoja.Domain.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\bin\Debug\net6.0\ref\AngularBaseLoja.Domain.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\bin\Debug\net6.0\AngularBaseLoja.Domain.pdb
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\obj\Debug\net6.0\AngularBaseLoja.Domain.csproj.AssemblyReference.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\obj\Debug\net6.0\AngularBaseLoja.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\obj\Debug\net6.0\AngularBaseLoja.Domain.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\obj\Debug\net6.0\AngularBaseLoja.Domain.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\obj\Debug\net6.0\AngularBaseLoja.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\obj\Debug\net6.0\AngularBaseLoja.Domain.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\obj\Debug\net6.0\ref\AngularBaseLoja.Domain.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.Domain\obj\Debug\net6.0\AngularBaseLoja.Domain.pdb
