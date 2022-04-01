@@ -13,7 +13,7 @@ namespace AngularBaseLoja.Data.Extension
         public static ModelBuilder SeedData(this ModelBuilder builder)
         {
 
-            //builder.Entity<User>().HasData(new User { Id = Guid.Parse("26add7b2-df82-45fe-841a-ffabd925bdf5"), Name="User Test" }
+            //builder.Entity<User>().HasData(new User { Id = Guid.Parse("26add7b2-df82-45fe-841a-ffabd925bdf5"), Name = "User Test", Email = "user.test@email.com", DateCreated = new DateTime(2021, 04, 01), IsDeleted = false, DateUpdated = null }
             //);
 
             return builder;

@@ -13,15 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3) Domain", "3) Domain", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4)Infra", "4)Infra", "{F8D2DCE9-7A63-4099-8CE1-94BEF87B8C6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularBaseLoja.Application", "AngularBaseLoja.Application\AngularBaseLoja.Application.csproj", "{76ECBDC7-761F-4E1B-9858-375987347792}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularBaseLoja.Application", "AngularBaseLoja.Application\AngularBaseLoja.Application.csproj", "{76ECBDC7-761F-4E1B-9858-375987347792}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularBaseLoja.Domain", "AngularBaseLoja.Domain\AngularBaseLoja.Domain.csproj", "{A4A01265-B4BD-46D1-9CD4-51220F0B407E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularBaseLoja.Domain", "AngularBaseLoja.Domain\AngularBaseLoja.Domain.csproj", "{A4A01265-B4BD-46D1-9CD4-51220F0B407E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1) Data", "4.1) Data", "{82798337-2088-4FCE-B5B7-275971F4DB8E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2)CrossCutting", "4.2)CrossCutting", "{62F5B03D-BE53-4256-932A-4EA5498960EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularBaseLoja.Data", "AngularBaseLoja.Data\AngularBaseLoja.Data.csproj", "{DD9C2597-65C9-491B-A2A1-6D4A6D60BB31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularBaseLoja.Data", "AngularBaseLoja.Data\AngularBaseLoja.Data.csproj", "{DD9C2597-65C9-491B-A2A1-6D4A6D60BB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularBaseLoja.IoC", "AngularBaseLoja.IoC\AngularBaseLoja.IoC.csproj", "{FEA505D8-917F-4136-81B9-1E51C5940524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DD9C2597-65C9-491B-A2A1-6D4A6D60BB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD9C2597-65C9-491B-A2A1-6D4A6D60BB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD9C2597-65C9-491B-A2A1-6D4A6D60BB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA505D8-917F-4136-81B9-1E51C5940524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA505D8-917F-4136-81B9-1E51C5940524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA505D8-917F-4136-81B9-1E51C5940524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA505D8-917F-4136-81B9-1E51C5940524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +62,7 @@ Global
 		{82798337-2088-4FCE-B5B7-275971F4DB8E} = {F8D2DCE9-7A63-4099-8CE1-94BEF87B8C6A}
 		{62F5B03D-BE53-4256-932A-4EA5498960EE} = {F8D2DCE9-7A63-4099-8CE1-94BEF87B8C6A}
 		{DD9C2597-65C9-491B-A2A1-6D4A6D60BB31} = {82798337-2088-4FCE-B5B7-275971F4DB8E}
+		{FEA505D8-917F-4136-81B9-1E51C5940524} = {62F5B03D-BE53-4256-932A-4EA5498960EE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74B840A6-7C7F-4180-A6FB-3DC752AC6771}

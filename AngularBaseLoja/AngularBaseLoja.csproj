@@ -32,7 +32,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AngularBaseLoja.Application\AngularBaseLoja.Application.csproj" />
     <ProjectReference Include="..\AngularBaseLoja.Data\AngularBaseLoja.Data.csproj" />
+    <ProjectReference Include="..\AngularBaseLoja.IoC\AngularBaseLoja.IoC.csproj" />
   </ItemGroup>
 
     <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

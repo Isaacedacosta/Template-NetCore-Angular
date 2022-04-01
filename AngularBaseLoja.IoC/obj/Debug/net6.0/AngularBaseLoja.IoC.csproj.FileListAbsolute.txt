@@ -1,0 +1,15 @@
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\bin\Debug\net6.0\AngularBaseLoja.IoC.deps.json
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\bin\Debug\net6.0\AngularBaseLoja.IoC.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\bin\Debug\net6.0\ref\AngularBaseLoja.IoC.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\bin\Debug\net6.0\AngularBaseLoja.IoC.pdb
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\bin\Debug\net6.0\AngularBaseLoja.Application.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\bin\Debug\net6.0\AngularBaseLoja.Application.pdb
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\AngularBaseLoja.IoC.csproj.AssemblyReference.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\AngularBaseLoja.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\AngularBaseLoja.IoC.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\AngularBaseLoja.IoC.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\AngularBaseLoja.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\AngularBaseLoja.IoC.csproj.CopyComplete
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\AngularBaseLoja.IoC.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\ref\AngularBaseLoja.IoC.dll
+C:\Users\Isaac\source\repos\projetos\AngularBaseLoja\AngularBaseLoja.IoC\obj\Debug\net6.0\AngularBaseLoja.IoC.pdb

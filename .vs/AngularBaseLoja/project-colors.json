@@ -10,7 +10,22 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "dd9c2597-65c9-491b-a2a1-6d4a6d60bb31": {
+      "ProjectGuid": "dd9c2597-65c9-491b-a2a1-6d4a6d60bb31",
+      "DisplayName": "AngularBaseLoja.Data",
+      "ColorIndex": 1
+    },
+    "76ecbdc7-761f-4e1b-9858-375987347792": {
+      "ProjectGuid": "76ecbdc7-761f-4e1b-9858-375987347792",
+      "DisplayName": "AngularBaseLoja.Application",
+      "ColorIndex": 2
+    },
+    "a4a01265-b4bd-46d1-9cd4-51220f0b407e": {
+      "ProjectGuid": "a4a01265-b4bd-46d1-9cd4-51220f0b407e",
+      "DisplayName": "AngularBaseLoja.Domain",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

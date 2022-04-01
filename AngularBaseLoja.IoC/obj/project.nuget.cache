@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2r7i47fk/wesHZT4TWhE4+Y2bKV0S3kfWmxNwjkK9+0Z95rlz3uu8kMEfVIqvt69oI4GKgqbXUiOVsYFXkiCSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isaac\\source\\repos\\projetos\\AngularBaseLoja\\AngularBaseLoja.IoC\\AngularBaseLoja.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isaac\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,4 +1,5 @@
 using AngularBaseLoja.Data.Context;
+using AngularBaseLoja.IoC;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -8,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ExpandedDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("AngularBaseLoja")).EnableSensitiveDataLogging());
+NativeInjector.RegisterService(builder.Services);
 
 var app = builder.Build();
 
